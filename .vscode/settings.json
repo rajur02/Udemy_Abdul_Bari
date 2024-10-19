@@ -3,7 +3,11 @@
         "iostream": "cpp",
         "ostream": "cpp",
         "xstring": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "vector": "cpp",
+        "forward_list": "cpp",
+        "map": "cpp",
+        "memory": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
